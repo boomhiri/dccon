@@ -68,7 +68,7 @@ img.dccon					{	max-height:112px; }
 
 /* 폰트 설정 */
 html								{	font-family:'cwtexyen', 'Jeju Gothic', serif;
-											font-size:20px; color: white;
+											font-size:32px; color: white;
  }
 .chat_nickname_box	{	font-size:1em; }
 

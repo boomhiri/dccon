@@ -144,8 +144,13 @@
 {name:"헥토킥.gif", keywords:["헥토킥"], tags:["붐히리"]},
 {name:"호랑사또.jpg", keywords:["호랑사또"], tags:["붐히리"]},
 {name:"황구.gif", keywords:["황구"], tags:["붐히리"]},
-{name:"흥분.gif", keywords:["흥분"], tags:["붐히리"]}
-{name:"개비스콘편안.png", keywords:["개비스콘편안"], tags:["붐히리"]}
+{name:"흥분.gif", keywords:["흥분"], tags:["붐히리"]},
+{name:"군침이싹안도노.png", keywords:["군침1"], tags:["붐히리"]},
+{name:"군침이싹도노.png", keywords:["군침2"], tags:["붐히리"]},
+{name:"군침짤.png", keywords:["군침3"], tags:["붐히리"]},
+{name:"김성근.png", keywords:["김성근1"], tags:["붐히리"]},
+{name:"수리.png", keywords:["수리"], tags:["붐히리"]},
+{name:"안녕히계세요.png", keywords:["안녕히계세요"], tags:["붐히리"]}
 
 
 
